@@ -44,7 +44,14 @@
         "website": "https://lexe.app/",
         "code": "https://github.com/lexe-app/lexe-public"
     },
-     {
+    {
+        "name": "Fedimint",
+        "description": "Fedimint gateways support paying and creating BOLT 12 offers",
+        "image": "projects/fedimint.jpg",
+        "website": "https://fedimint.org/",
+        "code": "https://github.com/fedimint/fedimint"
+    },
+    {
         "name": "Cashu",
         "description": "Cashu is a free and open-source Chaumian ecash protocol built for Bitcoin",
         "image": "projects/cashu.jpg",
